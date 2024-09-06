@@ -11,10 +11,9 @@ public class Main {
 	{
 		
 		double num1, num2;
-
-	
+		
 		Scanner sc = new Scanner(System.in);
-
+		//taking input from user
 		System.out.println("Enter the numbers:");
 
 	
